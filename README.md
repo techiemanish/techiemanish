@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techiemanish&label=Profile%20views&color=0e75b6&style=flat" alt="techiemanish" /> </p>
-
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **Java, JavaScript, full stack development, API, microservices, problem solving, docker, AWS, linux, Windows Server, AWS Elastic Beanstalk, AWS Code Pipelines, VMware Server Administration, Windows Server Administration**
