@@ -5,7 +5,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🌱 I’m currently learning <b>MERN stack & DevOps</b>
 
-- 💬 Ask me about **Java, JavaScript, Full Stack Development, API, Microservices, Problem Solving Algorithim, Docker, AWS, Linux, Windows Server, Docker, AWS Elastic Beanstalk, AWS Code Pipelines, AWS ECS, EC2, S3, VMware Server Administration, Windows Server Administration**
+- 💬 Ask me about **Java, JavaScript, Full Stack Development, API, Microservices, Problem Solving Algorithim, AWS, Linux, Windows Server, Docker, AWS Elastic Beanstalk, AWS Code Pipelines, AWS ECS, EC2, S3, VMware Server Administration, Windows Server Administration**
 
 - 📫 How to reach me **manishtiwari627@gmail.com**
 
