@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techiemanish&label=Profile%20views&color=0e75b6&style=flat" alt="techiemanish" /> </p>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🌱 I’m currently learning <b>MERN stack & DevOps</b>
+- 🌱 I’m currently learning <b>Spring, SpringBoot, MERN stack & DevOps</b>
 
-- 💬 Ask me about **Java, JavaScript, Full Stack Development, API, Microservices, Problem Solving Algorithim, AWS, Linux, Windows Server, Docker, AWS Elastic Beanstalk, AWS Code Pipelines, AWS ECS, EC2, S3, VMware Server Administration, Windows Server Administration**
+- 💬 Ask me about **Java, JavaScript, Full Stack Development, API, Microservices, Problem Solving Algorithm, AWS, Linux, Windows Server, Docker, AWS Elastic Beanstalk, AWS Code Pipelines, AWS ECS, EC2, S3, VMware Server Administration, Windows Server Administration**
 
 - 📫 How to reach me **manishtiwari627@gmail.com**
 
